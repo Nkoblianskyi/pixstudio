@@ -113,7 +113,6 @@ export default function TermsOfServicePage() {
             <br />
             info@pixstudioco.com
             <br />
-            +420 123 456 789
           </p>
         </div>
 
