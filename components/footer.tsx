@@ -22,10 +22,6 @@ export default function Footer() {
                 <Mail className="h-4 w-4" />
                 <span>info@pixstudioco.com</span>
               </div>
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <Phone className="h-4 w-4" />
-                <span>+420 123 456 789</span>
-              </div>
             </div>
           </div>
 

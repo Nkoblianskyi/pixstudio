@@ -54,25 +54,6 @@ export default function ContactPage() {
               </p>
             </CardContent>
           </Card>
-
-          <Card>
-            <CardContent className="p-6 flex flex-col items-center text-center space-y-4">
-              <div className="bg-orange-100 p-4 rounded-full">
-                <Phone className="h-6 w-6 text-orange-500" />
-              </div>
-              <h3 className="font-bold text-lg">Call Us</h3>
-              <p className="text-muted-foreground">
-                Main Office:
-                <br />
-                +420 123 456 789
-                <br />
-                <br />
-                Customer Support:
-                <br />
-                +420 987 654 321
-              </p>
-            </CardContent>
-          </Card>
         </div>
 
         <div className="grid gap-8 md:grid-cols-2">
